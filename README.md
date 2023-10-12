@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luishrj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently coding in kotlin
 - 💞️ I’m looking to collaborate on don't know
 - 📫 How to reach me @luishrj twitter
 
